@@ -5,7 +5,7 @@
     "ios": "expo run:ios"
   },
   "dependencies": {
-    "expo": "^47.0.0",
+    "expo": "^47.0.8",
     "expo-dev-client": "~2.0.0",
     "expo-splash-screen": "~0.17.4",
     "expo-status-bar": "~1.4.2",
@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
-    "@config-plugins/react-native-webrtc": "^5.0.0"
+    "@config-plugins/react-native-webrtc": "^3.0.0"
   },
   "name": "with-webrtc",
   "version": "1.0.0"
